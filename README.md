@@ -22,5 +22,6 @@ Este repositório contém os desafios de projetos propostos das aulas do módulo
 
 ### Print Power BI Desktop
 
-![image](https://github.com/annielu2/power_by_analyst/assets/60478797/c87ca368-0fb5-473f-b079-a7e37b2dc7e4)
+![image](https://github.com/annielu2/power_by_analyst/assets/60478797/f7ebb994-e6d6-45a6-8e4e-476c47f1b76e)
+
 
