@@ -19,3 +19,8 @@ Este repositório contém os desafios de projetos propostos das aulas do módulo
 - Integramos o Power BI e o MySQL Workbench no Azure
 - Transformamos os dados e mesclamos tabelas
 - Criamos o relatório da empresa
+
+### Print Power BI Desktop
+
+![image](https://github.com/annielu2/power_by_analyst/assets/60478797/c87ca368-0fb5-473f-b079-a7e37b2dc7e4)
+
